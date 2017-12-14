@@ -1,0 +1,4 @@
+/Users/ocalozyavuz/Documents/GitHub/XamarinModernHttpClient/src/ModernHttpClient/obj/Debug/MonoAndroid/MonoAndroid,Version=v2.3.AssemblyAttribute.cs
+/Users/ocalozyavuz/Documents/GitHub/XamarinModernHttpClient/src/ModernHttpClient/obj/Debug/MonoAndroid/ModernHttpClient.obj.Debug.MonoAndroid.__AndroidLibraryProjects__.zip
+/Users/ocalozyavuz/Documents/GitHub/XamarinModernHttpClient/src/ModernHttpClient/bin/Debug/MonoAndroid/Square.OkIO.dll
+/Users/ocalozyavuz/Documents/GitHub/XamarinModernHttpClient/src/ModernHttpClient/bin/Debug/MonoAndroid/Square.OkHttp.dll
